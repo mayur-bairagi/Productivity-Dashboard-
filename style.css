@@ -17,6 +17,7 @@
   box-sizing: border-box;
 }
 
+
 html,
 body {
   height: 100%;
@@ -39,7 +40,7 @@ header {
 }
 
 .nav {
-  height: 380px;
+  height: 38vh;
   background-color: var(--sec);
   border-radius: 10px;
   display: flex;
@@ -51,31 +52,31 @@ header {
 }
 
 .nav .nav1 h1 {
-  font-size: 80px;
+  font-size: 5em;
 }
 
 .nav .nav1 h2 {
-  font-size: 60px;
+  font-size: 4em;
 }
 
 .nav1 h3 {
-  font-size: 35px;
+  font-size: 3em;
   margin-bottom: 30px;
 }
 
 .nav .nav2 h2 {
-  font-size: 50px;
+  font-size: 4em;
 }
 
 .nav .nav2 h3 {
-  font-size: 30px;
+  font-size: 2em;
   margin-bottom: 10px;
 }
 .nav .nav2 h3 {
-  font-size: 30px;
+  font-size: 2em;
 }
 .nav .nav2 h3 {
-  font-size: 30px;
+  font-size: 2em;
 }
 
 
@@ -525,4 +526,5 @@ header {
   border: none;
   border-radius: 5px;
   display: none;
+
 }
